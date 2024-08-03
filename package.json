@@ -12,6 +12,7 @@
   "author": "Imthiyaz",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "nodeman": "^1.1.2"
   }
 }
